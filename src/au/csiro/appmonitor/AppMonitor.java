@@ -52,7 +52,7 @@ public class AppMonitor extends Activity implements Runnable{
 	private static final String MESSAGE = "MESSAGE";
 	
 	//public static String PROCESSNAMES[] = {"au.csiro.appmonitor", "com.svox.pico"};
-	public static String PROCESSNAMES[] = {"au.csiro.gsnlite"};
+	public static String PROCESSNAMES[] = {"au.csiro.gsnlite", "au.csiro.sensmalite.pluginlibrary"};
 
 	//public static final String PROCESSNAME = "au.csiro.appmonitor";	
 	private TextView mainScreenDisplay;
